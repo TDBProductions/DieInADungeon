@@ -30,6 +30,8 @@
     <Folder Include="FluffStuff\" />
     <Folder Include="HeightWeight\" />
     <Folder Include="Items\" />
+    <Folder Include="MinClassStats\" />
+    <Folder Include="RaceSelection\" />
     <Folder Include="StatAdjust\" />
     <Folder Include="Output\" />
     <Folder Include="Spells\" />
@@ -62,7 +64,16 @@
     <Content Include="FluffStuff\Names.csv" />
     <Content Include="HeightWeight\HeightWeight.csv" />
     <Content Include="Items\Items.csv" />
+    <Content Include="MinClassStats\ClericMinStats.csv" />
+    <Content Include="MinClassStats\DruidMinStats.csv" />
+    <Content Include="MinClassStats\FighterMinStats.csv" />
+    <Content Include="MinClassStats\PaladinMinStats.csv" />
+    <Content Include="MinClassStats\RangerMinStats.csv" />
+    <Content Include="MinClassStats\ThiefMinStats.csv" />
+    <Content Include="MinClassStats\WizardMinStats.csv" />
     <Content Include="Output\Test.doc" />
+    <Content Include="RaceSelection\RaceChart.csv" />
+    <Content Include="RaceSelection\RaceChartREADME.txt" />
     <Content Include="Spells\ClericSpells.csv" />
     <Content Include="Spells\DruidSpells.csv" />
     <Content Include="Spells\WizardSpells.csv" />
