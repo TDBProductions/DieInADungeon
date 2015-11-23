@@ -1,0 +1,26 @@
+Battle Axe|0|1|d8|0|0
+Hand Axe|1|0|d6|-1|0
+Hand Axe|0|0|d6|0|0
+Club|0|0|d6|0|0
+Dagger|0|0|d4|0|0
+Dart|0|0|d3|0|1
+Hammer|1|0|d4+1|0|0
+Maul|0|1|d8|0|0
+Scimitar|0|0|d8|0|0
+Scimitar|1|0|d8|-1|0
+Sling|0|0|d4+1|0|1
+Spear|0|1|d6|0|0
+Staff|0|1|d6|0|0
+Longsword|1|0|d8|-1|0
+Greatsword|0|1|2d6|0|0
+Bill-Guisarme|0|1|d10|0|0
+Glaive-Guisarme|0|1|d10|0|0
+Partisan|0|1|d10|0|0
+Broadsword|0|0|d8|0|0
+Halberd|0|1|d10|0|0
+Flail|1|0|d8|0|0
+Heavy Flail|0|1|d12|0|0
+Longbow|0|1|d8|0|1
+Shortbow|0|1|d6|0|1
+Light Crossbow|0|1|d6|0|1
+Heavy Crossbow|0|1|d8|0|1

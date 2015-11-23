@@ -1,0 +1,10 @@
+Club|0|0|d6|0|0
+Dagger|0|0|d4|0|0
+Dart|0|0|d3|0|1
+Hammer|1|0|d4+1|0|0
+Maul|0|1|d8|0|0
+Scimitar|0|0|d8|0|0
+Scimitar|1|0|d8|-1|0
+Sling|0|0|d4+1|0|1
+Spear|0|1|d6|0|0
+Staff|0|1|d6|0|0
